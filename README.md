@@ -30,13 +30,4 @@ This app proves I can build **real, functional web applications**. The same arch
 
 ---
 
-## 📁 Repository Structure
-HOSTEL-FINDER/
-    ├── index.html # Homepage / landing
-    ├── listings.html # Search results / hostel listings
-    ├── listing-detail.html # Individual hostel page
-    ├── dashboard.html # User dashboard (post/manage listings)
-    ├── login.html / signup.html
-    ├── css/ # Stylesheets
-    ├── js/ # JavaScript files
-    └── assets/ # Images, icons, etc.
+
